@@ -10,6 +10,8 @@ https://github.com/orgs/Azure/projects?query=is%3Aopen
 
 
 # Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
+https://saitejaswi-chakravaram05.medium.com/getting-started-with-devops-principles-culture-and-tools-for-continuous-improvement-e378bdf5390f
+
 What is Cloud Computing
 IaaS VS PaaS VS SaaS
 What is a Shared Responsibility Model
