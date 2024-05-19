@@ -1,5 +1,6 @@
 # Aure_Devops
 #15 days challenge 
+https://learn.microsoft.com/en-gb/training/paths/deploy-cloud-native-applications-to-azure-container-apps/
 
 https://learn.microsoft.com/en-us/azure/devops/get-started/?view=azure-devops
 
